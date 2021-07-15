@@ -1,3 +1,4 @@
+#/bin/bash
 using System;
 
 namespace HelloWorld
